@@ -1,0 +1,63 @@
+.addbtn{
+    float: right;
+    background-color: black !important;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 8px !important;
+    font-size: 14px !important;
+
+}
+
+.btnokay{
+    background-color: black !important;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 8px !important;
+    font-size: 14px !important;
+    margin-left: 10px !important;
+    
+}
+.btncancel{
+    background-color: black !important;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 8px !important;
+    font-size: 14px !important;
+}
+.btnokay:hover{
+    
+    transition: .5s ease-in;
+    outline: 2px solid black !important;
+    transform: scale(1.1);
+}
+.btncancel:hover{
+    background-color: black !important;
+    transition: .5s ease-in;
+    color: white !important;
+    transform: scale(1.1);
+}
+.icon{
+    color: black !important;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+.trashcenter{
+    align-items: center;
+    margin-left: 42%;
+}
+.center-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.trashimage{
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    color:  white !important;
+}

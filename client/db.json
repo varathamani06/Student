@@ -1,0 +1,44 @@
+{
+  "company": [
+    {
+      "id": "f416",
+      "firstname": "Vitae sint consequa",
+      "lastname": "Ipsa aut sunt sed d",
+      "email": "xize@mailinator.com",
+      "date": "02/09/2024",
+      "education": "Culpa sapiente dolo",
+      "location": "Est nihil rerum beat",
+      "about": "Sequi praesentium co"
+    },
+    {
+      "id": "2463",
+      "firstname": "kimmich",
+      "lastname": "bala",
+      "email": "bala@gmail.com",
+      "date": "15/01/2024",
+      "education": "data science",
+      "location": "batman",
+      "about": "lorem"
+    },
+    {
+      "id": "ef0c",
+      "firstname": "Cum quia non numquam",
+      "lastname": "Sunt doloremque esse",
+      "email": "tasive@mailinator.com",
+      "date": "02/09/2024",
+      "education": "Excepteur repellendu",
+      "location": "Est iure ex excepte",
+      "about": "Quis consequatur et "
+    },
+    {
+      "id": "f2fb",
+      "firstname": "bala",
+      "lastname": "kapila",
+      "email": "batman@gmail.com",
+      "date": "01/04/2022",
+      "education": "Mollit aut facilis a",
+      "location": "Mollit aut facilis a",
+      "about": "pl"
+    }
+  ]
+}
